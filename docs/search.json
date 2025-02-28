@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "Lab-03.html",
+    "href": "Lab-03.html",
+    "title": "Lab 3: COVID-19",
+    "section": "",
+    "text": "Question 1: Public Data\ns\n\ncovid &lt;- read.csv(\"https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv\")"
+  }
+]

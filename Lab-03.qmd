@@ -1,0 +1,19 @@
+---
+title: "Lab 3: COVID-19"
+subtitle: 'Ecosystem Science and Sustainability 330'
+author:
+  - name: Samantha Nauman
+    email: snauman4@colostate.edu
+format: html
+
+execute: 
+  echo: true
+---
+
+### Question 1: Public Data
+
+s
+```{r}
+covid <- read.csv("https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv")
+
+```
